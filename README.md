@@ -40,6 +40,7 @@ h1{
   align-items:center;
   justify-content:center;
   gap:9px;
+  text-align:center; 
 }
 
 .main-title img{ height:2.5em; }
