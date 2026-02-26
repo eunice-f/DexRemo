@@ -254,7 +254,7 @@ p{ font-size:17px; }
 <div class="container">
 
 <h1 class="main-title">
-OpenClaw: A Wrist-Frame Fingertip Force Sensing Hand for Contact-Rich Removal Manipulation
+DexRemo: A Wrist-Frame Fingertip Force Sensing Hand Platform for Contact-Rich Removal Manipulation
 </h1>
 
 
