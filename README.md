@@ -311,7 +311,7 @@ Open three-finger hand with modular three-axis fingertip force sensing for repro
 <div id="video" class="section">
 <h2>Project Video</h2>
 <div class="video">
-<iframe src="https://www.youtube.com/embed/fToNWljt--Q" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/S-zQTBiWH7c" allowfullscreen></iframe>
 </div>
 </div>
 
