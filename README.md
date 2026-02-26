@@ -43,6 +43,40 @@ h1{
   text-align:center; 
 }
 
+
+  .hero-title{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:18px;
+  margin-bottom:10px;
+}
+
+.hero-icon{
+  height:60px;
+  opacity:.9;
+}
+
+.hero-text{
+  text-align:center;
+}
+
+.title-main{
+  font-size:3.2rem;
+  font-weight:700;
+  margin:0;
+  letter-spacing:.5px;
+}
+
+.title-sub{
+  font-size:1.35rem;
+  font-weight:400;
+  margin:6px 0 0 0;
+  color:#444;
+  line-height:1.4;
+  max-width:800px;
+}
+  
 .main-title img{ height:2.5em; }
 
 .authors{
@@ -219,10 +253,18 @@ p{ font-size:17px; }
 <body>
 <div class="container">
 
-<h1 class="main-title">
-<img src="icon.png">
-DexRemo: A Wrist-Frame Fingertip Force Sensing Hand Platform for Contact-Rich Removal Manipulation
-</h1>
+
+<div class="hero-title">
+  <img src="icon.png" class="hero-icon">
+
+  <div class="hero-text">
+    <h1 class="title-main">DexRemo</h1>
+    <h2 class="title-sub">
+      A Wrist-Frame Fingertip Force Sensing Hand Platform
+      for Contact-Rich Removal Manipulation
+    </h2>
+  </div>
+</div>
 
 <div class="authors">Anonymous Authors</div>
 <div class="affiliation">Affiliation withheld for double-blind review</div>
