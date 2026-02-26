@@ -278,7 +278,7 @@ Code, dataset, and hardware files will be released upon publication.
 <div class="section">
 <h2>Abstract</h2>
 <p>
-We introduce DexRemo, an open three-finger hand with modular three-axis fingertip force sensing and a wrist-frame multi-finger force representation, together with a nine-task contact-rich removal manipulation suite spanning adhesive detachment, cleaning, self-cleaning, and occluded retrieval. We evaluate a unified ACT-based imitation learning policy conditioned on RGB, joint state, and wrist-frame fingertip forces under strict success criteria and held-out real-robot tests, and use controlled ablations to quantify the contribution of wrist-frame force sensing in sequential contact interactions under uncertainty.
+We introduce DexRemo, an open three-finger hand with modular three-axis fingertip force sensing and a wrist-frame multi-finger force representation, together with a nine-task contact-rich removal manipulation task set spanning adhesive detachment, cleaning, self-cleaning, and occluded retrieval. We evaluate a unified ACT-based imitation learning policy conditioned on RGB, joint state, and wrist-frame fingertip forces under strict success criteria and held-out real-robot tests, and use controlled ablations to quantify the contribution of wrist-frame force sensing in sequential contact interactions under uncertainty.
 </p>
 
 <div class="kpi">
@@ -291,9 +291,9 @@ Multi-finger fingertip forces expressed in a common wrist frame for consistent c
 </div>
 
 <div class="card">
-<div class="big">9-task removal suite</div>
+<div class="big">9-task removal task set</div>
 <div class="small">
-Contact-rich removal suite spanning adhesive detachment, cleaning, self-cleaning, and occluded retrieval under held-out real-robot tests.
+Contact-rich removal task set spanning adhesive detachment, cleaning, self-cleaning, and occluded retrieval under held-out real-robot tests.
 </div>
 </div>
 
@@ -359,7 +359,7 @@ Open three-finger hand with modular three-axis fingertip force sensing for repro
 
 <div class="section-caption">
   <strong>Results Highlights.</strong>
-  Representative executions across the nine-task removal suite under held-out real-robot conditions with synchronized multi-view observations and fingertip force traces.
+  Representative executions across the nine-task removal task set under held-out real-robot conditions with synchronized multi-view observations and fingertip force traces.
 </div>
 
 </div>
