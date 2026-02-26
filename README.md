@@ -253,18 +253,10 @@ p{ font-size:17px; }
 <body>
 <div class="container">
 
+<h1 class="main-title">
+OpenClaw: A Wrist-Frame Fingertip Force Sensing Hand for Contact-Rich Removal Manipulation
+</h1>
 
-<div class="hero-title">
-  <img src="icon.png" class="hero-icon">
-
-  <div class="hero-text">
-    <h1 class="title-main">DexRemo</h1>
-    <h2 class="title-sub">
-      A Wrist-Frame Fingertip Force Sensing Hand Platform
-      for Contact-Rich Removal Manipulation
-    </h2>
-  </div>
-</div>
 
 <div class="authors">Anonymous Authors</div>
 <div class="affiliation">Affiliation withheld for double-blind review</div>
