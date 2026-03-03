@@ -278,7 +278,8 @@ Code, dataset, and hardware files will be released upon publication.
 <div class="section">
 <h2>Abstract</h2>
 <p>
-We introduce DexRemo, an open three-finger hand with modular three-axis fingertip force sensing and a wrist-frame multi-finger force representation, together with a nine-task contact-rich removal manipulation task set spanning adhesive detachment, cleaning, self-cleaning, and occluded retrieval. We evaluate a unified ACT-based imitation learning policy conditioned on RGB, joint state, and wrist-frame fingertip forces under strict success criteria and held-out real-robot tests, and use controlled ablations to quantify the contribution of wrist-frame force sensing in sequential contact interactions under uncertainty.
+DexRemo reframes removal as contact-rich manipulation and shows that aligning fingertip forces into a shared frame is crucial for reliable learning. With an open-source three-finger platform and nine real-world tasks, an ACT imitation policy fuses aligned forces with vision, fingertip poses and proprioception to achieve strong multi-task performance and generalization. 
+
 </p>
 
 <div class="kpi">
